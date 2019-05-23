@@ -1,0 +1,6 @@
+﻿token = NTMyMjMyMzkwNTQyNzUzODA3.DzR8qw.HS-q2klxyff5UGZ4B7r5wciOUM4
+owner =400955088052420610
+prefix =2
+game = 2help | Special Server
+stayinchannel = false
+songinstatus = false
